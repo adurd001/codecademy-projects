@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/Users/131093/development/git/python"
+		}
+	],
+	"settings": {
+		"python.condaPath": "/opt/anaconda3/bin/python"
+	}
+}
